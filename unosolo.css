@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(184, 196, 248);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10pc;
+    
+    border-color: black;
+}
+
+.july{
+    background-color: rgb(180, 51, 192);
+}
+.lulu{
+    background-color: rgb(241, 206, 153);
+}
+.girl{
+    background-color: rgb(236, 66, 47);
+}
+h1{
+    font-family: Arial;
+    color: rgb(53, 2, 2);
+
+
+}
+h2{
+    color: 
+    #be1d11;
+    font-family: sans-serif;
+}
